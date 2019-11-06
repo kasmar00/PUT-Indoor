@@ -1,0 +1,460 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2019-11-06T16:24:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/709627108",
+        "indoor": "room",
+        "level": "0",
+        "name": "2 CW",
+        "room": "lecture"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.9498453,
+              52.4041706
+            ],
+            [
+              16.9498475,
+              52.4041608
+            ],
+            [
+              16.9498677,
+              52.4040715
+            ],
+            [
+              16.9498696,
+              52.4040633
+            ],
+            [
+              16.9499258,
+              52.404068
+            ],
+            [
+              16.950126,
+              52.4040849
+            ],
+            [
+              16.9501017,
+              52.4041922
+            ],
+            [
+              16.9499014,
+              52.4041753
+            ],
+            [
+              16.9498453,
+              52.4041706
+            ]
+          ]
+        ]
+      },
+      "id": "way/709627108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/709627109",
+        "indoor": "room",
+        "level": "0",
+        "name": "1 CW",
+        "room": "lecture"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.9498696,
+              52.4040633
+            ],
+            [
+              16.9498718,
+              52.4040536
+            ],
+            [
+              16.9498919,
+              52.4039647
+            ],
+            [
+              16.9498944,
+              52.4039537
+            ],
+            [
+              16.9499506,
+              52.4039584
+            ],
+            [
+              16.9501509,
+              52.4039753
+            ],
+            [
+              16.950126,
+              52.4040849
+            ],
+            [
+              16.9499258,
+              52.404068
+            ],
+            [
+              16.9498696,
+              52.4040633
+            ]
+          ]
+        ]
+      },
+      "id": "way/709627109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/709627110",
+        "indoor": "room",
+        "level": "0",
+        "name": "3 CW",
+        "room": "lecture"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.9501017,
+              52.4041922
+            ],
+            [
+              16.9500873,
+              52.4042556
+            ],
+            [
+              16.95002,
+              52.4042954
+            ],
+            [
+              16.949877,
+              52.4042834
+            ],
+            [
+              16.9498208,
+              52.4042786
+            ],
+            [
+              16.9498231,
+              52.4042684
+            ],
+            [
+              16.9498435,
+              52.4041786
+            ],
+            [
+              16.9498453,
+              52.4041706
+            ],
+            [
+              16.9499014,
+              52.4041753
+            ],
+            [
+              16.9501017,
+              52.4041922
+            ]
+          ]
+        ]
+      },
+      "id": "way/709627110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/300946614",
+        "covered": "yes",
+        "highway": "corridor",
+        "indoor": "yes",
+        "level": "0",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.9490172,
+            52.4039738
+          ],
+          [
+            16.9495719,
+            52.4037757
+          ]
+        ]
+      },
+      "id": "way/300946614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/653251452",
+        "covered": "yes",
+        "highway": "corridor",
+        "indoor": "yes",
+        "level": "0",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.9486958,
+            52.4036016
+          ],
+          [
+            16.949493,
+            52.4035955
+          ]
+        ]
+      },
+      "id": "way/653251452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/653251454",
+        "highway": "corridor",
+        "indoor": "yes",
+        "level": "0",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.9496566,
+            52.4036706
+          ],
+          [
+            16.9495647,
+            52.4036859
+          ],
+          [
+            16.949517,
+            52.4036992
+          ]
+        ]
+      },
+      "id": "way/653251454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/653251455",
+        "covered": "yes",
+        "highway": "corridor",
+        "indoor": "yes",
+        "level": "0",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.9498474,
+            52.4039285
+          ],
+          [
+            16.9497714,
+            52.4039039
+          ],
+          [
+            16.949702,
+            52.4038729
+          ],
+          [
+            16.9496406,
+            52.4038361
+          ],
+          [
+            16.9495887,
+            52.4037943
+          ],
+          [
+            16.9495719,
+            52.4037757
+          ],
+          [
+            16.9495472,
+            52.4037483
+          ],
+          [
+            16.949517,
+            52.4036992
+          ],
+          [
+            16.9494988,
+            52.4036479
+          ],
+          [
+            16.949493,
+            52.4035955
+          ],
+          [
+            16.9494999,
+            52.4035421
+          ],
+          [
+            16.9495197,
+            52.4034898
+          ],
+          [
+            16.9495519,
+            52.4034399
+          ],
+          [
+            16.9495958,
+            52.4033935
+          ],
+          [
+            16.9496505,
+            52.4033515
+          ]
+        ]
+      },
+      "id": "way/653251455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/653251456",
+        "access": "yes",
+        "covered": "yes",
+        "highway": "corridor",
+        "indoor": "yes",
+        "level": "0"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.9498644,
+            52.4038522
+          ],
+          [
+            16.9498474,
+            52.4039285
+          ],
+          [
+            16.9497561,
+            52.4043374
+          ]
+        ]
+      },
+      "id": "way/653251456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6669921873",
+        "access": "yes",
+        "door": "yes",
+        "level": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9498919,
+          52.4039647
+        ]
+      },
+      "id": "node/6669921873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6669921874",
+        "access": "yes",
+        "door": "yes",
+        "level": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9498718,
+          52.4040536
+        ]
+      },
+      "id": "node/6669921874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6669921875",
+        "access": "yes",
+        "door": "yes",
+        "level": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9498677,
+          52.4040715
+        ]
+      },
+      "id": "node/6669921875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6669921876",
+        "access": "yes",
+        "door": "yes",
+        "level": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9498475,
+          52.4041608
+        ]
+      },
+      "id": "node/6669921876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6669921877",
+        "access": "yes",
+        "door": "yes",
+        "level": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9498435,
+          52.4041786
+        ]
+      },
+      "id": "node/6669921877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6669921878",
+        "access": "yes",
+        "door": "yes",
+        "level": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9498231,
+          52.4042684
+        ]
+      },
+      "id": "node/6669921878"
+    }
+  ]
+}

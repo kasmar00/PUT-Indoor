@@ -1,0 +1,336 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2019-11-06T16:25:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/709627111",
+        "indoor": "room",
+        "level": "1",
+        "name": "7 CW",
+        "ref": "7",
+        "room": "lecture"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.9499506,
+              52.4039584
+            ],
+            [
+              16.9501509,
+              52.4039753
+            ],
+            [
+              16.950126,
+              52.4040849
+            ],
+            [
+              16.9499258,
+              52.404068
+            ],
+            [
+              16.949928,
+              52.4040583
+            ],
+            [
+              16.9499481,
+              52.4039695
+            ],
+            [
+              16.9499506,
+              52.4039584
+            ]
+          ]
+        ]
+      },
+      "id": "way/709627111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/709627112",
+        "indoor": "room",
+        "level": "1",
+        "name": "8 CW",
+        "ref": "8",
+        "room": "lecture"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.9499258,
+              52.404068
+            ],
+            [
+              16.950126,
+              52.4040849
+            ],
+            [
+              16.9501017,
+              52.4041922
+            ],
+            [
+              16.9499014,
+              52.4041753
+            ],
+            [
+              16.9499037,
+              52.4041655
+            ],
+            [
+              16.9499239,
+              52.4040762
+            ],
+            [
+              16.9499258,
+              52.404068
+            ]
+          ]
+        ]
+      },
+      "id": "way/709627112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/709627113",
+        "indoor": "room",
+        "level": "1",
+        "name": "9 CW",
+        "ref": "9",
+        "room": "lecture"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.9499014,
+              52.4041753
+            ],
+            [
+              16.9501017,
+              52.4041922
+            ],
+            [
+              16.9500873,
+              52.4042556
+            ],
+            [
+              16.9500772,
+              52.4043003
+            ],
+            [
+              16.95002,
+              52.4042954
+            ],
+            [
+              16.949877,
+              52.4042834
+            ],
+            [
+              16.9498793,
+              52.4042732
+            ],
+            [
+              16.9498996,
+              52.4041833
+            ],
+            [
+              16.9499014,
+              52.4041753
+            ]
+          ]
+        ]
+      },
+      "id": "way/709627113"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/709627114",
+        "indoor": "room",
+        "level": "1",
+        "name": "Sekretariat Instytutu Informatyki"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.9497964,
+              52.4043408
+            ],
+            [
+              16.9498097,
+              52.4042777
+            ],
+            [
+              16.9498208,
+              52.4042786
+            ],
+            [
+              16.949877,
+              52.4042834
+            ],
+            [
+              16.95002,
+              52.4042954
+            ],
+            [
+              16.9498121,
+              52.4044184
+            ],
+            [
+              16.9497797,
+              52.4044157
+            ],
+            [
+              16.9497964,
+              52.4043408
+            ]
+          ]
+        ]
+      },
+      "id": "way/709627114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6669921883",
+        "access": "yes",
+        "door": "yes",
+        "level": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9499481,
+          52.4039695
+        ]
+      },
+      "id": "node/6669921883"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6669921884",
+        "access": "yes",
+        "door": "yes",
+        "level": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.949928,
+          52.4040583
+        ]
+      },
+      "id": "node/6669921884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6669968285",
+        "access": "yes",
+        "door": "yes",
+        "level": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9499239,
+          52.4040762
+        ]
+      },
+      "id": "node/6669968285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6669968286",
+        "access": "yes",
+        "door": "yes",
+        "level": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9499037,
+          52.4041655
+        ]
+      },
+      "id": "node/6669968286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6669968287",
+        "access": "yes",
+        "door": "yes",
+        "level": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9498996,
+          52.4041833
+        ]
+      },
+      "id": "node/6669968287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6669968288",
+        "access": "yes",
+        "door": "yes",
+        "level": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9498793,
+          52.4042732
+        ]
+      },
+      "id": "node/6669968288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6669968296",
+        "addr:city": "Poznań",
+        "addr:housenumber": "2",
+        "addr:postcode": "60-965",
+        "addr:street": "Piotrowo",
+        "amenity": "university",
+        "email": "office@cs.put.poznan.pl",
+        "fax": "+48 61 877 15 25",
+        "level": "1",
+        "name": "Instytut Informatyki",
+        "note": "Sekretariat instytutu",
+        "operator": "Wydział Informatyki",
+        "phone": "+48 61 879 07 90; +48 61 665 2997; +48 665 2999",
+        "university": "insitute",
+        "website": "http://www2.cs.put.poznan.pl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9498689,
+          52.4043372
+        ]
+      },
+      "id": "node/6669968296"
+    }
+  ]
+}
