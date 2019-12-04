@@ -16,7 +16,6 @@ print("levels are:", levels)
 for l in levels:
 	export=pygeoj.new()
 	for i in data:
-		print(i.properties)
 		if 'level' in i.properties:
 			if l in i.properties["level"].split(";"):
 				export.add_feature(deepcopy(i))
